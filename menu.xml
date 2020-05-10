@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <food>
+        <name>Beef</name>
+        <price>28.00</price>
+    </food>
+    <food>
+        <name>Duck</name>
+        <price>35.00</price>
+    </food>
+    <food>
+        <name>Pork</name>
+        <price>25.00</price>
+    </food>
+    <food>
+        <name>Turkey</name>
+        <price>30.00</price>
+    </food>
+    <drinks>
+        <name>Coffee</name>
+        <price>7.00</price>
+    </drinks>
+    <drinks>
+        <name>Tea</name>
+        <price>4.00</price>
+    </drinks>
+    <drinks>
+        <name>Water</name>
+        <price>1.00</price>
+    </drinks>
+</menu>
