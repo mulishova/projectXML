@@ -8,12 +8,14 @@ public class Main {
 
     public static void main(String[] args) {
 
+        System.out.println("hello");
+
         // 1
-        //ClassDom objectDOM = new ClassDom();
-        //objectDOM.parseAndPrint("menu.xml");
+        ClassDom objectDOM = new ClassDom();
+        objectDOM.parseAndPrint("menu.xml");
 
         // 2
-        final String PATH = "menu.xml";
+        /*final String PATH = "menu.xml";
         File input = new File(PATH);
 
         try {
@@ -26,9 +28,7 @@ public class Main {
         catch (Exception e)
         {
             e.printStackTrace();
-        }
-
-        // 3
+        }*/
 
     }
 }
